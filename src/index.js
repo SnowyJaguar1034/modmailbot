@@ -107,5 +107,5 @@ try {
   }
 
   // Start the bot
-  main.start();
+  main.start(Nzk5NDAzODY4NTM0MDc5NTA5.YADE3g.rzQ8VUi9XKZz-nvnQEctnFQp144);
 })();
