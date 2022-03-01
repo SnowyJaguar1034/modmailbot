@@ -39,7 +39,7 @@
     "tmp": "^0.1.0",
     "transliteration": "^2.1.11",
     "uuid": "^8.3.0",
-    "yargs-parser": "^20.2.4"
+    "yargs-parser": "^21.0.1"
   },
   "devDependencies": {
     "eslint": "^7.7.0",
